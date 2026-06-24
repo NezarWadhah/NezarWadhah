@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nezar. I'm from Yemen, and I'm a 3rd year undergraduate student studying in Middle East Technical University - Northern Cyprus Campus.</p>
+<p align="left">My name is Nezar. I'm a Yemeni & Turkish national, and I'm a 4th year Software Engineering undergraduate student studying in Middle East Technical University - Northern Cyprus Campus.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022<br>📚 I'm currently learning Python OOP and C programming<br>🎯 Goals: Fluency in Python OOP and  internship opportunities</p>
+<p align="left">✨ Coding since 2022<br>📚 I'm currently learning Python OOP, C & Java programming<br>🎯 Goals: Fluency in Python OOP and  internship opportunities</p>
 
 ###
 
